@@ -1,0 +1,16 @@
+.vscode
+__pycache__
+venv
+
+notes.txt
+*.png
+*.zip
+*.log
+
+.DS_Store?
+.DS_Store
+._*
+.Trashes
+ehthumbs.db
+.Spotlight-V100
+Thumbs.db
